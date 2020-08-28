@@ -1,0 +1,19 @@
+/*******************
+* Hello
+**************
+* Nicholas Bradford
+* 8/28/20
+* CMSC 255 C90
+********************/
+public class Hello
+{
+	public static void main(String[]args)
+	{
+		System.out.println("Nicholas Bradford");
+		System.out.println("HelloProject");
+		System.out.println("Print out Name and other course related info");
+		System.out.println("8/28/20");
+		System.out.println("CMSC 255 C90");
+		System.out.println();
+	}
+}
